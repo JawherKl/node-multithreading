@@ -81,7 +81,6 @@ Worker 2 completed a task
 ```
 
 ## Enhancements
-
 This basic structure can be expanded by:
 - Adding different types of tasks.
 - Managing multiple shared memory buffers.

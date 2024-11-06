@@ -3,7 +3,6 @@
 This project demonstrates multithreading in Node.js using the `worker_threads` module, with safe shared memory operations via the `Atomics` and `SharedArrayBuffer` APIs. It includes features like dynamic task assignment, progress monitoring, error handling, and graceful shutdown.
 
 ## Features
-
 - **Multithreading**: Uses `worker_threads` for concurrent processing.
 - **Shared Memory**: Implements `SharedArrayBuffer` and `Atomics` for thread-safe shared memory.
 - **Dynamic Task Queue**: Allows tasks to be dynamically assigned to idle workers.

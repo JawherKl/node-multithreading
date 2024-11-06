@@ -19,7 +19,6 @@ node-multithreading/
 ```
 
 ## Getting Started
-
 ### Prerequisites
 
 - Node.js (v12.11.0 or higher for `worker_threads` support)

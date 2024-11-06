@@ -11,7 +11,6 @@ This project demonstrates multithreading in Node.js using the `worker_threads` m
 - **Graceful Shutdown**: Ensures all workers complete tasks before shutdown.
 
 ## Project Structure
-
 ```
 node-multithreading/
 ├── main.js         # Main file that manages workers and task queue

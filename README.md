@@ -87,5 +87,4 @@ This basic structure can be expanded by:
 - Integrating a logging library for more detailed logging and error handling.
 
 ## License
-
 This project is open source and available under the [MIT License](LICENSE).
